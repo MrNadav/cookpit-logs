@@ -12,3 +12,5 @@ Custom Cockpit Dashboard is a web application designed to monitor system logs an
 - **Expandable Sections**: Logs and services sections can be toggled open or closed for better visibility.
 - **Systemd Integration**: The backend runs as a systemd service, ensuring automatic startup on boot.
 
+![Screenshot_17-8-2024_175219_192 168 1 250](https://github.com/user-attachments/assets/a741f0c1-c06c-4eb1-aaa8-719dac685051)
+![Screenshot_17-8-2024_17531_192 168 1 250](https://github.com/user-attachments/assets/412efdb7-c3c7-455d-9738-b87e4a9568a1)
